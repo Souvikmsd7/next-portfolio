@@ -72,7 +72,7 @@ export default function SomethingIveBuilt() {
             col-span-8 flex flex-col items-start md:items-end space-y-3"
             >
               <div className="flex flex-col space-y-1 md:items-end z-10">
-                <span className="text-AAsecondary text-base">ENS Vision </span>
+                <span className="text-AAsecondary text-base">AchieveX Solutions </span>
                 <a href="http://www.thefoodiesworld.netlify.app" target="_blank" rel="noopener noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     Eatiano
@@ -80,24 +80,24 @@ export default function SomethingIveBuilt() {
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
-                <p className="text-gray-300 md:text-gray-400 text-left md:text-right ">
-                  At <span className="text-AAsecondary">ENS Vision</span>, I played a crucial role in developing web3
-                  components for their <span className="text-AAsecondary">web3 application</span> using Next.js and web3
-                  libraries. Our focus was on integrating new features and improving the user interface. One notable
-                  achievement was the release of NameWrapper with <span className="text-AAsecondary">ERC72</span>{" "}
-                  support, enabling users to create <span className="text-AAsecondary">subdomains</span>. This showcased
-                  our commitment to delivering innovative solutions.
+                <p className="text-gray-300 md:text-gray-400 text-left md:text-right text-justify">
+                   <span className="text-AAsecondary">Eatiano</span>, is inetercity food delivery I played a crucial role in developing web3
+                  components for their web3 application using <span className="text-AAsecondary">React.js</span> and <span className="text-AAsecondary"> web3
+                  libraries</span>. This Web and Mobile App lets users order food from various states, using membership discounts, coupons, 
+                  third-party payments, and social media logins. A Super Admin manages products, restaurants, users, and assigns delivery 
+                  or pickup agents. The Mobile version is built with <span className="text-AAsecondary">Flutter</span>, the Web version with <span className="text-AAsecondary"> React JS</span>,
+                   and the backend uses <span className="text-AAsecondary"> Laravel</span> and <span className="text-AAsecondary"> PostgreSQL</span>.
                 </p>
               </div>
               <ul
                 className="flex flex-wrap w-full text-gray-300 md:text-gray-400
                text-sm font-Text2 md:justify-end"
               >
-                <span className="pr-4 z-10">ENS domains</span>
-                <span className="pr-4 z-10">ENS names</span>
-                <span className="pr-4 z-10">web3</span>
-                <span className="pr-4 z-10">NFT</span>
-                <span className="pr-4 z-10">ERC72</span>
+                <span className="pr-4 z-10">React JS</span>
+                <span className="pr-4 z-10">Javascript</span>
+                <span className="pr-4 z-10">Laravel</span>
+                <span className="pr-4 z-10">Razor Pay</span>
+                <span className="pr-4 z-10">Context API</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
                 <a href="http://www.thefoodiesworld.netlify.app" target={"_blank"} rel="noreferrer">
@@ -145,18 +145,14 @@ export default function SomethingIveBuilt() {
                 <span className="text-AAsecondary text-base">Recent Project</span>
                 <a href="https://ypredict.ai/" target="_blank" rel="noopener noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    YPredict - v1
+                    Restrotreat
                   </span>
                 </a>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left ">
-                  I had the opportunity to lead the development of a token project, which aimed to create a
-                  decentralized ecosystem for peer-to-peer transactions. Overseeing the planning and development of the
-                  project, including the <span className="text-AAsecondary"> design</span> and implementation of the{" "}
-                  <span className="text-AAsecondary"> smart contract</span> and{" "}
-                  <span className="text-AAsecondary"> blockchain technology</span>. Here i share with you{" "}
-                  <span className="text-AAsecondary"> YPredict - v1 </span> for the private sale.
+                  Restrotreat is a restaurant portfolio web app. In this user can see details 
+                  of restaurant photos, chef. 
                 </p>
               </div>
               <ul

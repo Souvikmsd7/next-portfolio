@@ -116,7 +116,7 @@ export default function SomethingIveBuilt() {
           absolute md:grid grid-cols-12 w-full h-full  content-center "
           >
             <div className="relative rounded w-full h-full col-start-6 col-span-7 ">
-              <a href={"https://ubiquitous-bublanina-da84ec.netlify.app/"} target="_blank" rel="noreferrer">
+              <a href={"https://restreat.netlify.app/"} target="_blank" rel="noreferrer">
                 <div
                   className="absolute w-full h-full rounded bg-AAprimary 
            transition-opacity opacity-50 hover:opacity-0 hover:cursor-pointer duration-300"
@@ -143,7 +143,7 @@ export default function SomethingIveBuilt() {
             >
               <div className="flex flex-col space-y-1  z-10">
                 <span className="text-AAsecondary text-base">Recent Project</span>
-                <a href="https://ypredict.ai/" target="_blank" rel="noopener noreferrer">
+                <a href="https://restreat.netlify.app/" target="_blank" rel="noopener noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     Restrotreat
                   </span>
@@ -151,23 +151,25 @@ export default function SomethingIveBuilt() {
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left ">
-                  Restrotreat is a restaurant portfolio web app. In this user can see details 
-                  of restaurant photos, chef. 
+                <span className="text-AAsecondary">Restrotreat</span> is a <span className="text-AAsecondary"> restaurant portfolio</span> web app where users can view restaurant 
+                details, photos, and chef information. Users can order food online and book tables for events or 
+                other purposes. Currently,
+                 only the frontend version of the app is built, with backend integration in progress.
                 </p>
               </div>
               <ul
                 className="flex flex-wrap w-full text-gray-300 md:text-gray-400
                text-sm font-Text2 md:justify-start"
               >
-                <span className="pr-4 z-10">Token</span>
-                <span className="pr-4 z-10">ERC20</span>
-                <span className="pr-4 z-10">Nextjs</span>
-                <span className="pr-4 z-10">Smart contract</span>
-                <span className="pr-4 z-10">Blockchain</span>
+                <span className="pr-4 z-10">React JS</span>
+                <span className="pr-4 z-10">Javascript</span>
+                <span className="pr-4 z-10">Tailwind CSS</span>
+                <span className="pr-4 z-10">Context API</span>
+                {/* <span className="pr-4 z-10">Blockchain</span> */}
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <GithubIcon link="https://github.com/hktitof/Ypredict" />
-                <a href="https://ubiquitous-bublanina-da84ec.netlify.app/" target={"_blank"} rel="noreferrer">
+                {/* <GithubIcon link="https://github.com/hktitof/Ypredict" /> */}
+                <a href="https://restreat.netlify.app/" target={"_blank"} rel="noreferrer">
                   <ExternalLink url={""} router={router} />
                 </a>
               </div>
@@ -213,16 +215,13 @@ export default function SomethingIveBuilt() {
                 <span className="text-AAsecondary text-base">Recent Project</span>
                 <Link href={"/typing"}>
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
-                    Speed Typing
+                    ADMINO
                   </span>
                 </Link>
               </div>
               <div className="w-full md:bg-AAtertiary rounded-md py-6 md:p-6  z-10">
                 <p className="text-gray-300 md:text-gray-400 text-left md:text-right">
-                  This project aim to help you to improve your <span className="text-AAsecondary"> typing </span> by
-                  tracking your progress in <span className="text-AAsecondary"> each round</span> and give you a{" "}
-                  <span className="text-AAsecondary"> score</span> based on your typing speed and accuracy through a
-                  table of <span className="text-AAsecondary"> statistics</span>.
+                  Admino is a template built
                 </p>
               </div>
               <ul

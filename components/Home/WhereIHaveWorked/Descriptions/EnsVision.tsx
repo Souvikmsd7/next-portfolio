@@ -29,7 +29,7 @@ export default function EnsVision() {
         <div className="flex flex-col spacey-y-2">
           {/* Title */}
           <span className="text-gray-100 sm:text-lg text-sm font-Arimo tracking-wide">
-            Software Developer <span className="text-AAsecondary">@ web3</span>
+            Software Developer <span className="text-AAsecondary">@ React JS</span>
           </span>
           {/* Date */}
           <span className="font-mono text-xs text-gray-500">Sep 2022 - Present</span>

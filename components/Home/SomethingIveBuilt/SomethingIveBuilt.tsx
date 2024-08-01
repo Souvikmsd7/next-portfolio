@@ -44,7 +44,7 @@ export default function SomethingIveBuilt() {
                 ></div>
               </Link> */}
 
-              <a href="https://www.thefoodiesworld.netlify.app" target={"_blank"} rel="noreferrer">
+              <a href="https://thefoodiesworld.netlify.app" target={"_blank"} rel="noreferrer">
                 <div
                   // onClick={}
                   className="absolute w-full h-full rounded bg-AAprimary 
@@ -73,7 +73,7 @@ export default function SomethingIveBuilt() {
             >
               <div className="flex flex-col space-y-1 md:items-end z-10">
                 <span className="text-AAsecondary text-base">AchieveX Solutions </span>
-                <a href="https://www.thefoodiesworld.netlify.app" target="_blank" rel="noopener noreferrer">
+                <a href="https://thefoodiesworld.netlify.app" target="_blank" rel="noopener noreferrer">
                   <span className=" md:text-gray-200 text-AAsecondary font-bold text-xl hover:cursor-pointer">
                     Eatiano
                   </span>
@@ -100,7 +100,7 @@ export default function SomethingIveBuilt() {
                 <span className="pr-4 z-10">Context API</span>
               </ul>
               <div className="z-10 flex fle-row space-x-5 ">
-                <a href="https://www.thefoodiesworld.netlify.app" target={"_blank"} rel="noreferrer">
+                <a href="https://thefoodiesworld.netlify.app" target={"_blank"} rel="noreferrer">
                   <ExternalLink url={""} router={router} />
                 </a>
               </div>
